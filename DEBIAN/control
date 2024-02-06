@@ -1,0 +1,8 @@
+Package: blockkeyboard
+Version: 1.0
+Architecture: all
+Maintainer: Alper Samur <alpersamur0705@gmail.com>
+Depends: python3.7,python3-pip
+Installed-Size: 10
+Homepage:<https://alpersamur.blogspot.com/>
+Description:Z-kitap donma sorunu için Ekran Klavyesi engelleyici

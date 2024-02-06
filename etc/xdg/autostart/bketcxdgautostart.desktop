@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=python3 /usr/bin/block_keyboard bl
+Type=Application
+Name[tr_TR]=bketcxdgautostart.desktop

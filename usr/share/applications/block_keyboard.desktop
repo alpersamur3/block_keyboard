@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Block_Keyboard Application
+Name[tr]=Klavyeyi engelle
+Type=Application
+Comment=Screen keyboard blocker for etap 19
+Comment[tr]=Ekran klavyesi engelleyici(Etap19)
+Terminal=false
+Exec=python3 /usr/bin/block_keyboard
+Icon=/usr/share/bk/bk.svg
+Categories=Qt;Utility;
+Keywords=bk;engel;klavye;block;keyboard;
+Name[tr_TR]=block_keyboard.desktop
+GenericName=Block Keyboard
